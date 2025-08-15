@@ -23,7 +23,7 @@ const AdminNav = () => {
       options: [
         { label: "Admission", path: "/Admission" },
         { label: "Create-Fees-Heading", path: "/Create-Fees-Heading" },
-        { label: "Fees-Receipt", path: "/Fees-Receipt" },
+        { label: "Fees-Receipt", path: "/fees" },
         { label: "fees_Register", path: "/fees_Register" },
         { label: "create", path: "/create" },
        
